@@ -1,7 +1,7 @@
 # Project1_SAD_20232024
 
 
-## CLubHub
+## ClubHub
 
 A user-friendly platform that offers students in UTM , seamless access to a wealth of club information, empowering them to discover, explore, and engage in extracurricular activities with ease.
 
