@@ -42,13 +42,12 @@ Students at our campus face challenges in accessing timely information about var
 
 ## **Prepared By**
 
-| Name             | Matric Number |
-| :---------------- | :-------------: |
-| RAMI YASSEIN ELTAYEB MOHAMED    | A23CS0022        |
-| OW YEE HAO      | A23CS0261        |
-| CHANG WEI LAM       | A23CS0212        |
-| YAP JIA XIN       | A23CS0199        |
-
+| Name                                     | Matric Number | Photo |
+|------------------------------------------|---------------|-------|
+| OW YEE HAO  | A23CS0261     | <image src = "images/OWYEEHAO.jpg" width="200" height="240">|
+| CHANG WEI LAM       | A23CS0212     | <image src = "images/CHANGWEILAM.JPEG" width="200" height="240">|
+| YAP JIA XIN                 | A23CS0199    |<image src = "images/YAPJIAXIN.jpg" width="200" height="255"> |
+|Rami Yassein Eltayeb                  | A23CS0022    |<image src = "https://github.com/jjn7702/SECJ1023-PT2/assets/149052853/329e2772-2863-4f96-bd32-f6028edc0d6e" width="200" height="255"> |
 ## **Finding**
 [Kanban Board](https://github.com/users/Ramimoha1/projects/2)
 
