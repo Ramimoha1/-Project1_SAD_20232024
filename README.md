@@ -1,11 +1,11 @@
-# Project1_SAD_20232024
+# <ins>Project1_SAD_20232024
 
 
-## ClubHub
+## **ClubHub**
 
 A user-friendly platform that offers students in UTM , seamless access to a wealth of club information, empowering them to discover, explore, and engage in extracurricular activities with ease.
 
-## Prepared By
+## **Prepared By**
 
 | Name             | Matric Number |
 | :---------------- | :-------------: |
@@ -14,7 +14,7 @@ A user-friendly platform that offers students in UTM , seamless access to a weal
 | CHANG WEI LAM       | A23CS0212        |
 | YAP JIA XIN       | A23CS0199        |
 
-## Finding
+## **Finding**
 [Kanban Board](https://github.com/users/Ramimoha1/projects/2)
 
 [Proposal 1](https://github.com/Ramimoha1/-Project1_SAD_20232024/blob/4db115f8571960a2d305aac9fdd070b47a8bf31d/Proposal/ProjectProposal_grp_8.pdf)
