@@ -18,3 +18,4 @@ A user-friendly platform that offers students in UTM , seamless access to a weal
 [Kanban Board](https://github.com/users/Ramimoha1/projects/2)
 
 [Proposal 1](https://github.com/Ramimoha1/-Project1_SAD_20232024/blob/4db115f8571960a2d305aac9fdd070b47a8bf31d/Proposal/ProjectProposal_grp_8.pdf)
+[Proposal 2](https://github.com/Ramimoha1/-Project1_SAD_20232024/blob/4db115f8571960a2d305aac9fdd070b47a8bf31d/Proposal%20Phase%202/ProjectPhase2_grp8.pdf)
