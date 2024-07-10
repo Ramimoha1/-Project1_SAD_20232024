@@ -34,3 +34,6 @@ Students at our campus face challenges in accessing timely information about var
 ### 4. Event Records Repository
 - Includes reviews, and participant feedback from past events.
 - Provides valuable insights for students to make informed decisions about future participation and engagement.
+
+## **Finding**
+[Propsal Phase 3 Report]
