@@ -54,3 +54,5 @@ Students at our campus face challenges in accessing timely information about var
 [Proposal 1](https://github.com/Ramimoha1/-Project1_SAD_20232024/blob/4db115f8571960a2d305aac9fdd070b47a8bf31d/Proposal/ProjectProposal_grp_8.pdf)
 
 [Proposal 2](https://github.com/Ramimoha1/-Project1_SAD_20232024/blob/4db115f8571960a2d305aac9fdd070b47a8bf31d/Proposal%20Phase%202/ProjectPhase2_grp8.pdf)
+
+[Proposal 3](https://github.com/Ramimoha1/-Project1_SAD_20232024/tree/d487df5c0bb4d817b7c0c743de28fbcf3743a9f5/Proposal%20Phase%203)
